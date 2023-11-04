@@ -28,4 +28,4 @@
 20) git restore -- staged file.txt (if i dont want to commit it)
 21) git restore "file.txt" if i deleted this file
 22) git mv "old name.txt" "new name.txt" (to rename the file)
-HI
+
